@@ -34,6 +34,7 @@ dependencies:
   flutter_hooks: ^0.20.3
   flutter_riverpod: ^2.4.9
   flutter_social_textfield: ^0.1.2
+  gap: ^3.0.1
   hooks_riverpod: ^2.4.9
   sizer: ^2.0.15
   sliding_up_panel: ^2.0.0+1
